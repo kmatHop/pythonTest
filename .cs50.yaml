@@ -1,0 +1,5 @@
+1check50:
+2  checks:
+3    hello world:
+4      - run: python3 test.py
+6        exit: 0
